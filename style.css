@@ -17,3 +17,50 @@ html { box-sizing: border-box; }
 body {
 	background-color: #bdc3c7;
 }
+
+.profil {
+	background-color: #31363b;
+	width: 250px;
+	padding: 20px;
+}
+
+.foto {
+	width: 250px;
+}
+
+.logo {
+	background-color: #b92e81;
+	border-radius: 50%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.hlavicka {
+
+}
+
+.obsah {
+	color: #bdc3c7
+}
+
+.jmeno {
+	color: white
+}
+
+.portfolio {
+	display: block;
+}
+
+.facebook {
+	display: inline-block;
+}
+
+.twitter {
+	display: inline-block;
+}
+
+.odkazy a {
+	text-decoration: none;
+	color: #bdc3c7
+}
